@@ -77,7 +77,7 @@ console.log(pm);
 ¿Cuál crees que será el resultado de la ejecución de estas operaciones?:
 
 ```javascript
-6 / "3"
+6 / "3" //
 "2" * "3"
 4 + 5 + "px"
 "$" + 4 + 5
